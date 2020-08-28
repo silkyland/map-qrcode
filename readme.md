@@ -57,4 +57,5 @@
 | บ้านแม่มูล | ศูนย์ OTOP |  | 0514d084-8a55-41d2-bef1-9151c57a6100 | ![ศูนย์ OTOP](https://raw.githubusercontent.com/silkyland/map-qrcode/master/qrcode/%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%20OTOP.png) |
 | บ้านแม่มูล | น้ำตกแม่สะป๊อก | Mae sapok Waterfall | d631b19c-3e08-4f5f-95d0-f44e6976639f | ![น้ำตกแม่สะป๊อก](https://raw.githubusercontent.com/silkyland/map-qrcode/master/qrcode/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%81.png) |
 | บ้านแม่มูล | น้ำตกแม่วาง |  | 7cc952e3-87c3-4425-a63b-e85177f4ca34 | ![น้ำตกแม่วาง](https://raw.githubusercontent.com/silkyland/map-qrcode/master/qrcode/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%87.png) |
+| บ้านแม่มูล | วัดหลวงขุนวิน |  | 3966d6b7-f5e5-4419-b333-24d380cf831c | ![วัดหลวงขุนวิน](https://raw.githubusercontent.com/silkyland/map-qrcode/master/qrcode/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%99.png) |
 

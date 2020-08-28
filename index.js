@@ -15,7 +15,7 @@ fs.createReadStream("files/form.csv")
       row.locationNameTh
     )}.png) |\n`;
     QRCode.toFile(`./qrcode/${row.locationNameTh}.png`, row.uuid, {
-      width: 512,
+      width: 1024,
     });
     // QRCode.toFile();
   })
